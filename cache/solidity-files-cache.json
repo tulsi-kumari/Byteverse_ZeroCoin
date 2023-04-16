@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\FinalDapp\\thecontractcrew\\contracts\\TheContractCrew.sol": {
+      "lastModificationDate": 1681631548574,
+      "contentHash": "22571377ebc350386e248342b1edc634",
+      "sourceName": "contracts/TheContractCrew.sol",
+      "solcConfig": {
+        "version": "0.8.10",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Contractor",
+        "GovernmentBody"
+      ]
+    }
+  }
+}
