@@ -78,7 +78,7 @@ We welcome contributions from the community! Whether you're a developer, designe
 If you have any questions or feedback, feel free to reach out to us:
 
 - Email: [tulsik.ug21.cs@nitp.ac.in](mailto:tulsik.ug21.cs@nitp.ac.in)
-- Linkein: [@TulsiKumari](www.linkedin.com/in/tulsi-kumari-49a9a1217/)
+- Linkedin: [@TulsiKumari](www.linkedin.com/in/tulsi-kumari-49a9a1217/)
 
 Join us on this transformative journey as we reshape the infrastructure landscape in India. Together, we can build a brighter, more equitable future for all!
 
